@@ -11,3 +11,6 @@ Display ECG on a screen
 ## Informations :
 
 The sensors are linked to ECG Electrodes
+
+The library UTFT that permit to use the LCD touchscreen is available here : http://www.rinkydinkelectronics.com/library.php?id=51
+Documentation : http://www.rinkydinkelectronics.com/resource/UTFT/UTFT.pdf
