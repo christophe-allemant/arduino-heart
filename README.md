@@ -8,6 +8,8 @@ Display ECG on a screen
  - 3.2" TFT 400*240 With SD Touch Module
  - AD8238 Heart Monitor
  
+![alt text](https://github.com/christophe-allemant/arduino-heart/blob/main/ad8232_demo.jpg?raw=true)
+
 ## Informations :
 
 The sensors are linked to ECG Electrodes
